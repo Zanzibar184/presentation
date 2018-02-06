@@ -1,0 +1,73 @@
+@import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+ .bg-top{
+     background-color:#212121;
+     color: #ffffff;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     margin-bottom: 50px;
+     border-bottom: 4px solid #297ec4;
+     border-top: 4px solid #e0701a;
+}
+ .bs-callout {
+     border-color: #eee;
+     border-radius: 3px;
+     border-style: solid;
+     border-width: 1px 1px 3.5px 3.5px;
+     margin-bottom: 10px;
+     padding: 20px;
+}
+ .bs-callout-grid1 {
+     border-left-color: #297ec4;
+     border-bottom-color: #297ec4;
+}
+ .bs-callout-grid2 {
+     border-left-color: #e0701a;
+     border-bottom-color: #e0701a;
+}
+ .btn-social{
+     color: white;
+     opacity:0.9;
+}
+ .btn-linkedin {
+     background-color:#0e76a8;
+     opacity:0.9;
+}
+ .btn-github{
+     background-color:#000000;
+     opacity:0.9;
+}
+ .btn-google {
+     background-color: #c32f10;
+     opacity: 0.9;
+}
+ li{
+     margin:5px;
+}
+ ul {
+     list-style-type: none;
+}
+ .competence{
+     border-color: #297ec4;
+     border-width: 1px;
+     border-style: solid;
+     padding: 20px;
+}
+ @media (min-width: 1200px) {
+     .container{
+         max-width: 950px;
+    }
+     .social-btn-holder{
+         padding:5px;
+    }
+}
+ p,h1,h2,h3,h4,li{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 18px;
+}
+ .media-heading{
+     font-family: 'Righteous', cursive;
+}
+ .media-body{
+     font-family: 'Righteous', cursive;
+}
+ 
